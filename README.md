@@ -23,14 +23,17 @@
   
   ## Contributing
   N/A
+
+  ## Live Screen Recording 
   
   ## Tests
-  
   Logo examples:
-  ![logo-example-1](https://github.com/Wanipopota/svg-logo-maker/assets/163935215/a18aa89f-e846-4097-96d5-2b301158f545)
-  ![logo-example-2](https://github.com/Wanipopota/svg-logo-maker/assets/163935215/c5f6e797-0383-4427-b026-e7315f5cd644)
-  ![logo-example-3](https://github.com/Wanipopota/svg-logo-maker/assets/163935215/c049bb41-71fb-4a6b-8f9c-a2bcba8b195a)
-  
+  <img width="226" alt="Screenshot1" src="https://github.com/Wanipopota/svg-logo-maker/assets/163935215/a18aa89f-e846-4097-96d5-2b301158f545.png">
+
+  <img width="245" alt="Screenshot2" src="https://github.com/Wanipopota/svg-logo-maker/assets/163935215/c5f6e797-0383-4427-b026-e7315f5cd644.png">
+
+  <img width="214" alt="Screenshot3" src="https://github.com/Wanipopota/svg-logo-maker/assets/163935215/c049bb41-71fb-4a6b-8f9c-a2bcba8b195a.png">
+ 
   ## Questions
   For questions about the project, please contact [@Wanipopota](https://github.com/Wanipopota) or wanipopota@gmail.com.
   
