@@ -25,7 +25,7 @@
   N/A
 
   ## Live Screen Recording 
-  
+  https://github.com/Wanipopota/svg-logo-maker/assets/163935215/7e236b67-1a94-4e16-bfd8-458e14f3736d
   ## Tests
   Logo examples:
   <img width="226" alt="Screenshot1" src="https://github.com/Wanipopota/svg-logo-maker/assets/163935215/a18aa89f-e846-4097-96d5-2b301158f545.png">
